@@ -15,6 +15,13 @@ This notebook illustrates the step-by-step process of building such a portfolio 
 
 ---
 
+## 📊 Example Visualization
+
+*Efficient Frontier*  
+
+![Efficient Frontier Example](images/efficient_frontier.png)
+
+---
 ## 🗂️ Contents
 
 ### 1. Data Gathering
@@ -60,13 +67,6 @@ This notebook illustrates the step-by-step process of building such a portfolio 
 
 ---
 
-## 📊 Example Visualization
-
-*(Optional — Add an image once available)*  
-
-![Efficient Frontier Example](images/efficient_frontier.png)
-
----
 
 ## 🚀 How to Run
 
