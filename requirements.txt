@@ -1,0 +1,9 @@
+pykernel
+ipywidgets
+jupyterlab
+rich
+tqdm
+numpy
+pandas
+plotly
+yfinance

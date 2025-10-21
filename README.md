@@ -18,8 +18,15 @@ This notebook illustrates the step-by-step process of building such a portfolio 
 ## 📊 Example Visualization
 
 *Efficient Frontier*  
+The efficient frontier is a graph showing the set of optimal portfolios that offers the highest expected return for a given level of risk or, conversely, the lowest possible risk for a given expected return. Portfolios below this curve are considered suboptimal because they either deliver too little return for the risk taken or take on too much risk for a given level of expected return
 
 ![Efficient Frontier Example](images/efficient_frontier.png)
+
+
+*My Simulation*
+The portfolios on the frontier are considered optimal, and we can choose the portfolios based on the risk appetite and other preferences.
+![My Efficient Frontier](images/sim_eff_frontier.png)
+
 
 ---
 ## 🗂️ Contents
@@ -59,11 +66,13 @@ This notebook illustrates the step-by-step process of building such a portfolio 
 
 ## 💻 Technologies Used
 - **Python 3**
-- **Jupyter Notebook**
+- **Jupyter Lab**
 - **Pandas**
 - **NumPy**
-- **Matplotlib / Seaborn**
+- **Plotly**
 - **yfinance**
+- **tqdm**
+- **rich**
 
 ---
 
@@ -73,8 +82,8 @@ This notebook illustrates the step-by-step process of building such a portfolio 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/efficient-frontier-portfolio.git
-   cd efficient-frontier-portfolio
+   git clone https://github.com/KuoLiang-hub/building_portfolio_with_efficient_frontier
+   cd building_portfolio_with_efficient_frontier
    ```
 
 2. Install dependencies:
@@ -86,7 +95,7 @@ This notebook illustrates the step-by-step process of building such a portfolio 
 3. Launch Jupyter Notebook:
 
    ```bash
-   jupyter notebook
+   jupyter lab
    ```
 
 4. Open the notebook and run all cells sequentially.
