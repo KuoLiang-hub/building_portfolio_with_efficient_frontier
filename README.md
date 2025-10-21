@@ -63,5 +63,61 @@ This notebook illustrates the step-by-step process of building such a portfolio 
 ## 📊 Example Visualization
 
 *(Optional — Add an image once available)*  
-```markdown
+
 ![Efficient Frontier Example](images/efficient_frontier.png)
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/efficient-frontier-portfolio.git
+   cd efficient-frontier-portfolio
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Launch Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+4. Open the notebook and run all cells sequentially.
+
+---
+
+## 🧾 Output Highlights
+
+* Summary of portfolio performance metrics.
+* Visualized Efficient Frontier.
+* Optimal portfolio composition (weight distribution).
+* Interactive insights on risk and return trade-offs.
+
+---
+
+## 📚 References
+
+* Markowitz, H. (1952). *Portfolio Selection*. Journal of Finance.
+* Investopedia: [Efficient Frontier Explained](https://www.investopedia.com/terms/e/efficientfrontier.asp)
+
+---
+
+## 🧑‍💻 Author
+
+**Kuo Liang**
+📅 Created: October 2025
+🔗 [LinkedIn](https://www.linkedin.com/in/kuo-l-32968a211/) | [GitHub](https://github.com/KuoLiang-hub)
+
+---
+
+## 🪙 License
+
+This project is licensed under the [MIT License](LICENSE).
+
