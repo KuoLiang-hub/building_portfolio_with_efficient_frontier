@@ -1,4 +1,4 @@
-pykernel
+ipykernel
 ipywidgets
 jupyterlab
 rich

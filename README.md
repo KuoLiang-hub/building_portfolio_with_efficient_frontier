@@ -49,8 +49,6 @@ The portfolios on the frontier are considered optimal, and we can choose the por
 ### 4. Data Visualization
 - Plot all simulated portfolios on the risk-return plane.
 - Highlight the **Efficient Frontier** curve.
-- Mark the **maximum Sharpe ratio portfolio** and **minimum volatility portfolio**.
-- Visualize weight allocations for optimal portfolios.
 
 ---
 
@@ -59,7 +57,6 @@ The portfolios on the frontier are considered optimal, and we can choose the por
 - Portfolio Optimization  
 - Monte Carlo Simulation  
 - Covariance & Correlation Analysis  
-- Sharpe Ratio Calculation  
 - Financial Data Visualization  
 
 ---
